@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Git\\Data-Structure\\DoublyLinkedList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9376E65D-81ED-4CFD-BCB5-BFF297480319}|DoublyLinkedList.vcxproj|D:\\Git\\Data-Structure\\DoublyLinkedList\\DoublyLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9376E65D-81ED-4CFD-BCB5-BFF297480319}|DoublyLinkedList.vcxproj|solutionrelative:DoublyLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9376E65D-81ED-4CFD-BCB5-BFF297480319}|DoublyLinkedList.vcxproj|D:\\Git\\Data-Structure\\DoublyLinkedList\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9376E65D-81ED-4CFD-BCB5-BFF297480319}|DoublyLinkedList.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DoublyLinkedList.cpp",
-              "DocumentMoniker": "D:\\Git\\Data-Structure\\DoublyLinkedList\\DoublyLinkedList.cpp",
-              "RelativeDocumentMoniker": "DoublyLinkedList.cpp",
-              "ToolTip": "D:\\Git\\Data-Structure\\DoublyLinkedList\\DoublyLinkedList.cpp",
-              "RelativeToolTip": "DoublyLinkedList.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoAAAABAAAAAAAAAA==",
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Git\\Data-Structure\\DoublyLinkedList\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "D:\\Git\\Data-Structure\\DoublyLinkedList\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-21T03:40:39.701Z",
               "EditorCaption": ""
