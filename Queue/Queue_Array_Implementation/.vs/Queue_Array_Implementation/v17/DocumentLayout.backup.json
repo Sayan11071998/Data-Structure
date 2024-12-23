@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\Data-Structure\\Queue\\Queue_Array_Implementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D658086-64A1-4D6F-89A2-4FDC8C9BA5D7}|Queue_Array_Implementation.vcxproj|D:\\Git\\Data-Structure\\Queue\\Queue_Array_Implementation\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D658086-64A1-4D6F-89A2-4FDC8C9BA5D7}|Queue_Array_Implementation.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Git\\Data-Structure\\Queue\\Queue_Array_Implementation\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "D:\\Git\\Data-Structure\\Queue\\Queue_Array_Implementation\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T07:59:26.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
