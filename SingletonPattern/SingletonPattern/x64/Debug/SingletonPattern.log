@@ -1,2 +1,2 @@
-﻿Main.obj : error LNK2001: unresolved external symbol "private: static class Singleton * Singleton::singletonInstance" (?singletonInstance@Singleton@@0PEAV1@EA)
-D:\Git\Data-Structure\SingletonPattern\x64\Debug\SingletonPattern.exe : fatal error LNK1120: 1 unresolved externals
+﻿  Main.cpp
+  SingletonPattern.vcxproj -> D:\Git\Data-Structure\SingletonPattern\x64\Debug\SingletonPattern.exe

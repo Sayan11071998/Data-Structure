@@ -18,6 +18,8 @@ public:
     void print() { cout << "This is a Singleton Pattern"; }
 };
 
+Singleton* Singleton::singletonInstance = nullptr;
+
 int main()
 {
     Singleton* singleton = Singleton::getSingletonInstance();

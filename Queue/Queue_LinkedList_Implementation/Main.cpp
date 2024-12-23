@@ -57,7 +57,7 @@ public:
         }
     }
 
-    // For Delete Element from Last
+    // For Inserting Element from Last
     void enqueue(int value)
     {
         Node* newNode = new Node(value);
