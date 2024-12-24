@@ -28,8 +28,8 @@ public:
         }
 
         cout << "Queue elements: ";
-        for (int i = 0; i < currentSize; i++)
-            cout << queue[(front + i) % queueSize] << " ";
+        for (int i = front; i <= rear; i++)
+            cout << queue[i] << " ";
         cout << endl;
     }
 
@@ -42,7 +42,14 @@ public:
             return;
         }
 
-        rear = (rear + 1) % queueSize;
+        // Check if rear exceeds the queue size
+        if (rear + 1 >= queueSize)
+        {
+            cout << "Error: Queue overflow detected!" << endl;
+            return;
+        }
+
+        rear++;
         queue[rear] = value;
         currentSize++;
     }
@@ -56,8 +63,15 @@ public:
             return;
         }
 
-        front = (front + 1) % queueSize;
+        front++;
         currentSize--;
+
+        // Reset front and rear if the queue becomes empty
+        if (currentSize == 0)
+        {
+            front = 0;
+            rear = -1;
+        }
     }
 
     // Front
@@ -116,14 +130,13 @@ int main()
     cout << "Queue size after pop: " << myQueue.size() << endl;
 
     // Push more elements
-    cout << "Pushing values 40, 50, and 60..." << endl;
+    cout << "Pushing values 40 and 50..." << endl;
     myQueue.enqueue(40);
     myQueue.enqueue(50);
-    myQueue.enqueue(60);
 
     // Attempt to push into a full queue
-    cout << "Attempting to push 70 into a full queue..." << endl;
-    myQueue.enqueue(70);
+    cout << "Attempting to push 60 into a full queue..." << endl;
+    myQueue.enqueue(60);
 
     // Print the queue
     cout << "Queue after pushing more elements: ";
