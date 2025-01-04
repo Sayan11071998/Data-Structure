@@ -90,11 +90,6 @@ This repository aims to:
 - Help understand the real-world use cases of data structures.
 - Serve as a reference for beginners learning C++ and data structures.
 
-## **Linked List Visualization**
-Here is a simple diagram representing a linked list structure:
-
-![Linked List Diagram](A_diagrammatic_representation_of_a_singly_linked_l.png)
-
 ## **How to Use**
 1. Clone the repository:
    ```bash
