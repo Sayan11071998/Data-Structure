@@ -1,14 +1,8 @@
-
-
-Here's a suggestion for a README file for your "Data-Structure" repository that aligns with your learning journey:
-
----
-
-# Data-Structure
+# ***Data-Structure***
 
 This repository contains implementations of fundamental data structures in **C++**. It is part of my learning journey as I explore the basics and deepen my understanding of how these modules work.
 
-## Data Structures Covered
+## **Data Structures Covered**
 
 - **Linked List**: Implementation of a singly linked list.
 - **Doubly Linked List**: A linked list where nodes contain references to both the next and the previous node.
@@ -16,19 +10,19 @@ This repository contains implementations of fundamental data structures in **C++
 - **Stack**: A Last-In-First-Out (LIFO) data structure.
 - **Singleton Pattern**: A design pattern ensuring a single instance of a class.
 
-## Features
+## **Features**
 
 - Modular and clean code organization.
 - Comments explaining the logic behind the implementations.
 - Each folder contains relevant code for the respective data structure.
 
-## Learning Goals
+## **Learning Goals**
 
 - Understanding the core concepts of data structures.
 - Building a strong foundation in C++ programming.
 - Applying these structures in real-world scenarios.
 
-## Folder Structure
+## **Folder Structure**
 
 ```
 /Data-Structure
@@ -40,7 +34,7 @@ This repository contains implementations of fundamental data structures in **C++
 └── README.md
 ```
 
-## How to Use
+## **How to Use**
 
 Clone the repository:
 
